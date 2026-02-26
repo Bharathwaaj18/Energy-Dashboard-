@@ -44,7 +44,6 @@ energy/
 
 ```bash
 git clone https://github.com/Bharathwaaj18/Energy-Dashboard-.git
-cd your-repo-name
 ```
 
 ### 2. Create and activate a virtual environment
