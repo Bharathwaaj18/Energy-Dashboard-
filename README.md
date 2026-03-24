@@ -43,7 +43,7 @@ energy/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Bharathwaaj18/Energy-Dashboard-.git
+git clone https://github.com/harshatharamkumar/Energy-Dashboard-.git
 ```
 
 ### 2. Create and activate a virtual environment
