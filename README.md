@@ -1,4 +1,4 @@
-# ⚡ Industrial Renewable Energy & Production Intelligence
+# ⚡ AI-Based Renewable Energy Forecasting and Industrial Decision Support Using SARIMA
 
 A Streamlit dashboard that forecasts renewable energy generation, optimises industrial energy allocation, and provides actionable cost-reduction recommendations for factory operations.
 
